@@ -1,7 +1,5 @@
 # docker-clash-with-dashboard
 
-[![star](http://githubbadges.com/star.svg?user=m2kar&repo=docker-clash-with-dashboard)](https://github.com/m2kar/docker-clash-ui)
-
 clash with clash-dashboard located at `/ui`.
 
 Run clash in docker under [the official instructions](https://github.com/Dreamacro/clash/wiki/Run-clash-in-docker).
